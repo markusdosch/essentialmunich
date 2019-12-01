@@ -1,0 +1,20 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        fetch-depth: 1
+    - run: mkdir output
+    - uses: ./.github/actions/pandoc-conversion-action
+      with:
+        args: "-s --toc --metadata-file=metadata.yml -o output/index.html README.md"
+    - uses: actions/upload-artifact@master
+      with:
+        name: output
+        path: output
