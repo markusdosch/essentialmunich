@@ -1,0 +1,5 @@
+name: 'Pandoc Conversion'
+runs:
+  using: 'docker'
+  image: 'docker://pandoc/core:2.7.2'
+  entrypoint: pandoc
