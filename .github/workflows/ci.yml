@@ -10,10 +10,12 @@ jobs:
     - uses: actions/checkout@v1
       with:
         fetch-depth: 1
-    - run: mkdir output
+    - run: | 
+        mkdir output
+        cp style.css output/
     - uses: ./.github/actions/pandoc-conversion-action
       with:
-        args: "-s --toc --metadata-file=metadata.yml -o output/index.html README.md"
+        args: "-s --toc --metadata-file=metadata.yml --css=style.css README.md -o output/index.html"
     - run: |
         eval "$(ssh-agent -a ${SSH_AUTH_SOCK})"
         ssh-add - <<< "${ESSENTIALMUNICH_PRIVATE_KEY}"
