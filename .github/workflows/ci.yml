@@ -13,6 +13,7 @@ jobs:
     - run: | 
         mkdir output
         cp style.css output/
+        cp favicon.ico output/
     - uses: ./.github/actions/pandoc-conversion-action
       with:
         args: "-s --toc --metadata-file=metadata.yml --css=style.css README.md -o output/index.html"
