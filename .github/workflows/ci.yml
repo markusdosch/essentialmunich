@@ -14,9 +14,11 @@ jobs:
         mkdir output
         cp style.css output/
         cp favicon.ico output/
+    - run: echo "::set-output name=now::$(date '+%B %e, %Y')"
+      id: date
     - uses: ./.github/actions/pandoc-conversion-action
       with:
-        args: "-s --toc --metadata-file=metadata.yml --css=style.css README.md -o output/index.html"
+        args: "-s --toc --template=template.html --metadata-file=metadata.yml -M date=\"Last updated: ${{ steps.date.outputs.now }}\" --css style.css README.md -o output/index.html"
     - run: |
         eval "$(ssh-agent -a ${SSH_AUTH_SOCK})"
         ssh-add - <<< "${ESSENTIALMUNICH_PRIVATE_KEY}"

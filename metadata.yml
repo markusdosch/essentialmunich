@@ -1,3 +1,9 @@
-title: Essential Munich | Essential information for people moving to Munich
+title-prefix: Essential Munich
+pagetitle: Essential information for people moving to Munich
+title: Essential Munich
+subtitle: Essential information for people moving to Munich
+toc-title: Table of Contents
 author:
   - Markus Dosch
+reference:
+  - <a href="https://github.com/markusdosch/essentialmunich">GitHub</a>
