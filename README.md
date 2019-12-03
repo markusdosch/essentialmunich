@@ -58,7 +58,15 @@ Uber and MyTaxi are active
 
 ## Leisure
 
-* Notable parks: English Garden (especially around Monopteros & Flaucher), Olympiapark,...
+### Notable parks
+- English Garden (especially around Monopteros & Flaucher)
+- Olympiapark
+
+### Notable regular events
+- From mid of March till the beginning of April, there is the so-called "Starkbierfest", where lots of restaurants provide you with special stronger beer from local brewery. The most famous restaurant for this event is the Paulaner-Nockherberg.
+- Later in spring, there is the "Frühlingsfest" at the Theresienwiese
+- From Mid/End of September till beginning of October, there is the world-famous "Oktoberfest" at the Theresienwiese
+- In summer and winter, there is the "Tollwood" festival. In summer, it takes place at the Olympiapark. In winter, at the Theresienwiese.
 
 ## Entertainment
 
@@ -84,3 +92,4 @@ Uber and MyTaxi are active
 * Neuschwanstein
 * Unterachleißheim
 * Chiemsee
+* Therme Erding
