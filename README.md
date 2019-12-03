@@ -26,14 +26,16 @@ The main car sharing providers are DriveNow and Sixt Share. For renting a car, b
 
 ## Shopping
 
-* All stores close at 20:00 and are closed on Sunday
+* All stores close at 20:00 and are closed on Sunday. The only "kind of supermarket" open on Sunday is a REWE to Go at Hauptbahnhof, which is open 24/7.
 * Typical grocery stores are:
   * Discount: ALDI, LIDL, Penny, Netto
   * Supermarket: EDEKA, REWE
-* There are services like REWE Lieferservice and ALDI liefert (new) for bringing groceries to your apartment
-* MyDealz
-* Viktualienmarkt
-* largest shopping places: Kaufingerstr,...
+* There are services like REWE Lieferservice and "ALDI liefert" for bringing groceries to your apartment
+* MyDealz is a German shopping community where it's users share, rate, and discuss shopping deals. When deals get upvoted, they turn "hot". It is possible to set keyword alerts incl. limiting the alerts to deals that have already turned hot.
+* Viktualienmarkt is the most famous food market in Munich - in a variety of small independent stands, you can get very high quality foodstuff.
+* The largest shopping street is Kaufingerstr, which connects Marienplatz and Stachus. Other shopping sights like Konen, Hofstatt, and Karstadt are close-by as well.
+* The largest shopping malls are Pep in Neuperlach and Olympia Einkaufszentrum. These are mostly frequented by people who either love there or come from the outskirts, not really from people from the city center.
+* A 1h drive north is Ingolstadt Village, a collective of brand outlet stores.
 
 ## Living
 
