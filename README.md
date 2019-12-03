@@ -49,14 +49,14 @@ The main car sharing providers are DriveNow and Sixt Share. For renting a car, b
 
 ## Internet & Phone
 
-* Internet for Home price comparison: [Größter DSL Vergleich: Garantiert die günstigsten Preise | CHECK24](https://m.check24.de/dsl/)
+* Internet for Home price comparison: <https://m.check24.de/dsl/>
 * mobile phone:
 * there are three Network providers: Telekom, Vodafone, Telefonica
-* [winSIM Handytarife | Günstige Handyverträge & Allnet Flat](https://www.winsim.de/) and [https://www.premiumsim.de/](https://www.premiumsim.de/) are very good, especially their monthly-cancelable offerings
+* <https://www.winsim.de/> and <https://www.premiumsim.de/> are very good, especially their monthly-cancelable offerings
 
 ## News
 
-* Süddeutsche Zeitung with headquarts in Munich is a world-class newspaper, arguably the best German daily newspaper. Tney took part in uncovering the Panama Papers and the Paradise Papers. Their online presence is on https://www.sueddeutsche.de/. They also have really good coverage what is happening locally in Munich: https://www.sueddeutsche.de/muenchen
+* Süddeutsche Zeitung with headquarts in Munich is a world-class newspaper, arguably the best German daily newspaper. Tney took part in uncovering the Panama Papers and the Paradise Papers. Their online presence is on <https://www.sueddeutsche.de/>. They also have really good coverage what is happening locally in Munich: <https://www.sueddeutsche.de/muenchen>
 * The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 
 ## Leisure
