@@ -3,6 +3,10 @@ p.reference {
   text-align: center;
 }
 
+.title a, .title a:visited, .title a:active {
+  color: black !important;
+}
+
 /* adopted from https://gist.github.com/killercup/5917178 and slightly adjusted */
 
 html {
@@ -22,6 +26,7 @@ body {
   margin: auto;
   max-width: 42em;
   background: #fefefe;
+  overflow: hidden;
 }
 
 a {
