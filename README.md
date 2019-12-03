@@ -1,6 +1,7 @@
 ## Transportation
 
-* there exist U-Bahn (covering the city region), S-Bahn (covering a very large area incl. the outskirts), Tram, and Bus.
+* there exist U-Bahn (covering the city region), S-Bahn (covering a larger area incl. the outskirts), Tram, and Bus.
+  * The core section of the S-Bahn is called "Stammstrecke", because all S-Bahn lines go through there: Ostbahnhof, Rosenheimer Platz, Isartor, Marienplatz, Karlsplatz (Stachus), Hauptbahnhof, Hackerbrücke, Donnersbergerbrücke. Official plans count Hirschgarten, Laim, and Pasing also to the Stammstrecke, although not all (but most) lines go through them. While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays.
 * U-Bahn, Tram, and Busses inside Munich is provided by the "MVG". S-Bahn is provided by the DB. Both MVG and DB are member of the "MVV", an association of transportation groups to provide service for Munich and around.
 * the monthly ticket is called "IsarCard". It costs 55,20€ for the M-Zone, which covers most of Munich
 * the app of choice for calculating the routes is "MVG Fahrinfo" (language can be set to English)
