@@ -56,7 +56,7 @@ The main car sharing providers are DriveNow and Sixt Share. For renting a car, b
 
 ## News
 
-* Süddeutsche Zeitung with headquarts in Munich is a world-class newspaper, arguably the best German daily newspaper. Tney took part in uncovering the Panama Papers and the Paradise Papers. Their online presence is on <https://www.sueddeutsche.de/>. They also have really good coverage what is happening locally in Munich: <https://www.sueddeutsche.de/muenchen>
+* Süddeutsche Zeitung with headquarters in Munich is a world-class newspaper, arguably the best German daily newspaper. Tney took part in uncovering the Panama Papers and the Paradise Papers. Their online presence is on <https://www.sueddeutsche.de/>. They also have really good coverage what is happening locally in Munich: <https://www.sueddeutsche.de/muenchen>
 * The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 
 ## Leisure
