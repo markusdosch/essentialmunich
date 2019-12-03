@@ -3,10 +3,7 @@ p.reference {
   text-align: center;
 }
 
-/* via https://gist.github.com/killercup/5917178 */
-/*
- * I add this to html files generated with pandoc.
- */
+/* adopted from https://gist.github.com/killercup/5917178 and slightly adjusted */
 
 html {
   font-size: 100%;
@@ -19,7 +16,7 @@ body {
   color: #444;
   font-family: Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman",
     serif;
-  font-size: 12px;
+  font-size: 18px;
   line-height: 1.7;
   padding: 1em;
   margin: auto;
@@ -271,16 +268,6 @@ table td {
   text-align: center;
 }
 
-@media only screen and (min-width: 480px) {
-  body {
-    font-size: 14px;
-  }
-}
-@media only screen and (min-width: 768px) {
-  body {
-    font-size: 16px;
-  }
-}
 @media print {
   * {
     background: transparent !important;
