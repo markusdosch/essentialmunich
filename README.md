@@ -39,15 +39,28 @@ The main car sharing providers are DriveNow and Sixt Share. For renting a car, b
 
 ## Living
 
+* Warm rent is usually: Cold rent + utility costs (especially heating and water). Usually, you will pay a monthly lump-sum for the utility costs. At the end of the year, the landlord is required to do a "Nebenkostenrechnung" (calculate the actual exact utility costs for the year). Then, either the renter gets back what was paid too much, or has to pay what was paid too less (then, the future monthly lump-sum should be adjusted) 
+* Usually you need to take care about electricity costs, and internet & phone, yourself.
+* Besides rent, every household has to pay a monthly GEZ fee to finance the public broadcast services
+* In case you don't want to receive advertisements that are put into your mailbox, you can order a free "no-ads" sticker at AWM
 * Trash: At every house, there are trash bins for "normal waste", paper, and organic ("bio"). You are supposed to use recycling spots to throw away plastic, glass, and cans. Other trash should be be brought to the "Wertstoffhof"
 * Munich's tap water is very good, one of the best in Europe
 
+## Finances
 
-## Banking
+### Banking
 
-* N26 is a german challenger Bank, App-focused
+* N26 is a German challenger Bank, app-focused
 * DKB german direct Bank, Comdirect also good
 * classical banks: Deutsche, Commerzbank,...
+
+### Taxes
+
+For filing tax reports, you can use the free government-provided software ELSTER. Alternatively, there exist paid software like WISO Steuern that helps optimizing the tax report. 
+
+## Insurances
+
+There are two mandatory insurances: Health insurance, and car insurance in case you are owning a car.
 
 ## Internet & Phone
 
