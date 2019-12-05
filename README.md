@@ -2,7 +2,7 @@
 ### Public Transport
 There exist U-Bahn (covering the city region), S-Bahn (covering a larger area incl. the outskirts), Tram, and Bus. The monthly ticket is called "IsarCard". It costs 55,20€ for the M-Zone, which covers most of Munich. Recommended apps for calculating the routes are "MVG Fahrinfo" and "MVV App". Both apps can be set to English.
 
-The core section of the S-Bahn is called "Stammstrecke", because all S-Bahn lines go through there: Ostbahnhof, Rosenheimer Platz, Isartor, Marienplatz, Karlsplatz (Stachus), Hauptbahnhof, Hackerbrücke, Donnersbergerbrücke. Official plans count Hirschgarten, Laim, and Pasing also to the Stammstrecke, although not all (but most) lines go through them. While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays.
+The core section of the S-Bahn is called "Stammstrecke", because all S-Bahn lines go through there: Ostbahnhof, Rosenheimer Platz, Isartor, Marienplatz, Karlsplatz (Stachus), Hauptbahnhof, Hackerbrücke, Donnersbergerbrücke. Official plans count Hirschgarten, Laim, and Pasing also to the Stammstrecke, although not all (but most) lines go through them. While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays. The problem is set to be solved by the "[2. Stammstrecke](https://www.2.stammstrecke-muenchen.de/)" in 2028.
 
 With MVG Bike, the MVG offers bike sharing services (for use with the "MVG More" app). There are bike stations, but bikes can be rented and returned outside of stations (inside the city radius).
 
@@ -101,7 +101,7 @@ There are two mandatory insurances: Health insurance, and car insurance in case 
 
 ### Concerts
 
-- Notable concert halls and areas are the Gasteig (mostly for classical music), Zenith, Muffathalle, Tonhalle
+- Notable concert halls and areas are the Gasteig (mostly for classical music), Zenith, Muffathalle, Tonhalle, Backstage
 
 ## Day trips
 
