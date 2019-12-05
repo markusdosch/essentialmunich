@@ -22,7 +22,7 @@ General driving speed inside the city is 50km/h, outside the city 100km/h, and a
 Munich's street infrastructure has two major rings. The "Innerer Ring" with a general driving speed of 60km/h, and the "Autobahnring". 
 
 ### Other means of transport
-The main car sharing providers are DriveNow and Sixt Share. For renting a car, best is probably to compare on CHECK24 or billiger-Mietwagen.de. As for taxis, both Uber and MyTaxi are active in Munich. There are several e-scooter companies competing for market share. 
+The main car sharing providers are SHARE NOW and Sixt Share. For renting a car, best is probably to compare on CHECK24 or billiger-Mietwagen.de. As for taxis, both Uber and MyTaxi are active in Munich. There are several e-scooter companies competing for market share. 
 
 ## Shopping
 
@@ -34,7 +34,7 @@ The main car sharing providers are DriveNow and Sixt Share. For renting a car, b
 * MyDealz is a German shopping community where it's users share, rate, and discuss shopping deals. When deals get upvoted, they turn "hot". It is possible to set keyword alerts incl. limiting the alerts to deals that have already turned hot.
 * Viktualienmarkt is the most famous food market in Munich - in a variety of small independent stands, you can get very high quality foodstuff.
 * The largest shopping street is Kaufingerstr, which connects Marienplatz and Stachus. Other shopping sights like Konen, Hofstatt, and Karstadt are close-by as well.
-* The largest shopping malls are Pep in Neuperlach and Olympia Einkaufszentrum. These are mostly frequented by people who either love there or come from the outskirts, not really from people from the city center.
+* The largest shopping malls are Pep in Neuperlach and Olympia Einkaufszentrum. These are mostly frequented by people who either live there or come from the outskirts, not really from people from the city center.
 * A 1h drive north is Ingolstadt Village, a collective of brand outlet stores.
 
 ## Living
@@ -71,7 +71,7 @@ There are two mandatory insurances: Health insurance, and car insurance in case 
 
 ## News
 
-* Süddeutsche Zeitung with headquarters in Munich is a world-class newspaper, arguably the best German daily newspaper. Tney took part in uncovering the Panama Papers and the Paradise Papers. Their online presence is on <https://www.sueddeutsche.de/>. They also have really good coverage what is happening locally in Munich: <https://www.sueddeutsche.de/muenchen>
+* Süddeutsche Zeitung with headquarters in Munich is a world-class newspaper, arguably the best German daily newspaper. They took part in uncovering the Panama Papers and the Paradise Papers. Their online presence is on <https://www.sueddeutsche.de/>. They also have really good coverage what is happening locally in Munich: <https://www.sueddeutsche.de/muenchen>
 * The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 
 ## Leisure
