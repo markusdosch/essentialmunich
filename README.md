@@ -20,7 +20,7 @@ General driving speed inside the city is 50km/h, outside the city 100km/h, and a
 Munich's street infrastructure has two major rings. The "[Mittlerer Ring](https://de.wikipedia.org/wiki/Bundesstraße_2_R)" with a general driving speed of 60km/h, and the "[Autobahnring](https://de.wikipedia.org/wiki/Bundesautobahn_99)". 
 
 ### Flying
-[Munich Airport](https://www.munich-airport.de)" (also "Flughafen Franz Josef Strauß", shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of best-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an [airport bus](https://www.airportbus-muenchen.de) with a return price of 17€. It is available to customers of all airlines, not just Lufthansa. Easyjet is a notable discount airline that flys from and to the airport.
+[Munich Airport](https://www.munich-airport.de) (also "Flughafen Franz Josef Strauß", shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of best-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an [airport bus](https://www.airportbus-muenchen.de) with a return price of 17€. It is available to customers of all airlines, not just Lufthansa. Easyjet is a notable discount airline that flys from and to the airport.
 
 At Memmingen "[Allgäu Airport](https://www.allgaeu-airport.de)" (also: "München West", shortcode: FMM), Ryanair offers cheap flights. There are regular shuttle bus transfers between Munich and Memmingen that take around 1.5h. 
 
