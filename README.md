@@ -20,7 +20,7 @@ Munich's street infrastructure has two major rings. The "[Mittlerer Ring](https:
 ### Flying
 [Munich Airport](https://www.munich-airport.de)" (also "Flughafen Franz Josef Strauß", shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of best-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an [airport bus](https://www.airportbus-muenchen.de) with a return price of 17€. It is available to customers of all airlines, not just Lufthansa. Easyjet is a notable discount airline that flys from and to the airport.
 
-At Memmingen "[Allgäu Airport](https://www.allgaeu-airport.de)" (also: "Allgäu Airport", shortcode: FMM), Ryanair offers cheap flights. There are regular shuttle bus transfers between Munich and Memmingen that take around 1.5h. 
+At Memmingen "[Allgäu Airport](https://www.allgaeu-airport.de)" (also: "München West", shortcode: FMM), Ryanair offers cheap flights. There are regular shuttle bus transfers between Munich and Memmingen that take around 1.5h. 
 
 ### Bike
 Munich is bike-friendly and is constantly working on making cycling more attractive. Many streets have bike lanes, many one-way steets are open in both directions for cyclists (special street sign required). You can find information & rules for cyclists in this [info document (German)](https://www.adfc.de/fileadmin/user_upload/Im-Alltag/Recht/Downloads/Verkehrsrecht_fuer_Radfahrende_Stand_06.2018.pdf) by the adfc (General German Cycling Club).
