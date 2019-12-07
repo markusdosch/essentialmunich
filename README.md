@@ -5,7 +5,9 @@ There exist U-Bahn (covering the city region), S-Bahn (covering a larger area in
 #### S-Bahn Stammstrecke
 The core section of the S-Bahn is called "Stammstrecke", because all S-Bahn lines go through there: Ostbahnhof, Rosenheimer Platz, Isartor, Marienplatz, Karlsplatz (Stachus), Hauptbahnhof, Hackerbrücke, Donnersbergerbrücke. 
 
-Official plans also count Hirschgarten, Laim, and Pasing to the Stammstrecke, although not all (but most) lines go through them. While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays. The problem is set to be solved by the "[2. Stammstrecke](https://www.2.stammstrecke-muenchen.de/)" in 2028.
+Official plans also count Hirschgarten, Laim, and Pasing to the Stammstrecke, although not all (but most) lines go through them. 
+
+While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays. The problem is set to be solved by the "[2. Stammstrecke](https://www.2.stammstrecke-muenchen.de/)" in 2028.
 
 #### Background Knowledge
 *Background knowledge:* U-Bahn, Tram, and Bus service inside Munich is provided by the "MVG". S-Bahn is provided by the DB (Deutsche Bahn). Both MVG and DB are member of the "MVV", an association of transportation groups to provide service for Munich and around.
