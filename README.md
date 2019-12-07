@@ -1,28 +1,36 @@
 ## Transportation
 ### Public Transport
-There exist U-Bahn (covering the city region), S-Bahn (covering a larger area incl. the outskirts), Tram, and Bus. The monthly ticket is called "IsarCard". It costs 55,20€ for the M-Zone, which covers most of Munich. Recommended apps for calculating the routes are "MVG Fahrinfo" and "MVV App". Both apps can be set to English.
+There exist U-Bahn (covering the city region), S-Bahn (covering a larger area incl. the outskirts), Tram, and Bus. The monthly ticket is called "IsarCard". It costs 55,20€ for the M-Zone, which covers most of Munich. Recommended apps for calculating the routes are "[MVG Fahrinfo](https://www.mvg.de/services/mobile-services/fahrinfo.html)" and "[MVV App](https://www.mvv-muenchen.de/fahrplanauskunft/mobile-auskunft-app/mvv-app/index.html)". Both apps can be set to English.
 
-The core section of the S-Bahn is called "Stammstrecke", because all S-Bahn lines go through there: Ostbahnhof, Rosenheimer Platz, Isartor, Marienplatz, Karlsplatz (Stachus), Hauptbahnhof, Hackerbrücke, Donnersbergerbrücke. Official plans count Hirschgarten, Laim, and Pasing also to the Stammstrecke, although not all (but most) lines go through them. While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays. The problem is set to be solved by the "[2. Stammstrecke](https://www.2.stammstrecke-muenchen.de/)" in 2028.
+#### S-Bahn Stammstrecke
+The core section of the S-Bahn is called "Stammstrecke", because all S-Bahn lines go through there: Ostbahnhof, Rosenheimer Platz, Isartor, Marienplatz, Karlsplatz (Stachus), Hauptbahnhof, Hackerbrücke, Donnersbergerbrücke. 
 
-With MVG Bike, the MVG offers bike sharing services (for use with the "MVG More" app). There are bike stations, but bikes can be rented and returned outside of stations (inside the city radius).
+Official plans also count Hirschgarten, Laim, and Pasing to the Stammstrecke, although not all (but most) lines go through them. While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays. The problem is set to be solved by the "[2. Stammstrecke](https://www.2.stammstrecke-muenchen.de/)" in 2028.
 
-*Background knowledge:* U-Bahn, Tram, and Bus service inside Munich is provided by the "MVG". S-Bahn is provided by the DB. Both MVG and DB are member of the "MVV", an association of transportation groups to provide service for Munich and around.
-
-### Flying
-München "Franz Josef Strauß" (shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of best-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an airport bus with a return price of 17€. It is available to customers of all airlines, not just Lufthansa. Easyjet is a notable discount airline that flys from and to the airport.
-
-At Memmingen "Munich West" (also: "Allgäu Airport", shortcode: FMM), Ryanair offers cheap flights. There are regular shuttle bus transfers between Munich and Memmingen that take around 1.5h. 
+#### Background Knowledge
+*Background knowledge:* U-Bahn, Tram, and Bus service inside Munich is provided by the "MVG". S-Bahn is provided by the DB (Deutsche Bahn). Both MVG and DB are member of the "MVV", an association of transportation groups to provide service for Munich and around.
 
 ### Car
-
-Different to cities like London, there is no special fee for owning a car inside the city. The only extra cost is parking. Either you have free parking in the streets where you live (less likely in the inner city), your House provided garage spots (around 100€/month), or your apply for a "Anwohnerparkplatz" (very cheap at around 60€/year), which gives you the right to use the park lots near your house.
+Different to cities like London, there is no special fee for owning a car inside the city. The only extra cost is parking. Either you have free parking in the streets where you live (less likely in the inner city), your house-provided garage spots (around 100€/month), or your apply for a "Anwohner-Parkausweis" (very cheap at around 60€/year), which gives you the right to use the park lots in the streets near where you live. Application for an "Anwohner-Parkausweis" [here](https://www.muenchen.de/rathaus/Stadtverwaltung/Kreisverwaltungsreferat/Verkehr/Parkraummanagement/Parkausweis-fuer-Anwohner.html).
 
 General driving speed inside the city is 50km/h, outside the city 100km/h, and at the Autobahn unlimited (with a recommended speed of 130km/h). Always except otherwise noted.
 
-Munich's street infrastructure has two major rings. The "Innerer Ring" with a general driving speed of 60km/h, and the "Autobahnring". 
+Munich's street infrastructure has two major rings. The "[Mittlerer Ring](https://de.wikipedia.org/wiki/Bundesstraße_2_R)" with a general driving speed of 60km/h, and the "[Autobahnring](https://de.wikipedia.org/wiki/Bundesautobahn_99)". 
+
+### Flying
+[Munich Airport](https://www.munich-airport.de)" (also "Flughafen Franz Josef Strauß", shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of best-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an [airport bus](https://www.airportbus-muenchen.de) with a return price of 17€. It is available to customers of all airlines, not just Lufthansa. Easyjet is a notable discount airline that flys from and to the airport.
+
+At Memmingen "[Allgäu Airport](https://www.allgaeu-airport.de)" (also: "Allgäu Airport", shortcode: FMM), Ryanair offers cheap flights. There are regular shuttle bus transfers between Munich and Memmingen that take around 1.5h. 
+
+### Bike
+Munich is bike-friendly and is constantly working on making cycling more attractive. Many streets have bike lanes, many one-way steets are open in both directions for cyclists (special street sign required). You can find information & rules for cyclists in this [info document (German)](https://www.adfc.de/fileadmin/user_upload/Im-Alltag/Recht/Downloads/Verkehrsrecht_fuer_Radfahrende_Stand_06.2018.pdf) by the adfc (General German Cycling Club).
+
+The MVV offers a nice bike route calculation website: http://rad.mvv-muenchen.de The bike option in Google Maps is also pretty good.
+
+With MVG Bike, the MVG offers bike sharing services (for use with the "MVG More" app). There are bike stations, but bikes can be rented and returned outside of stations (inside the city radius).
 
 ### Other means of transport
-The main car sharing providers are SHARE NOW and Sixt Share. For renting a car, best is probably to compare on CHECK24 or billiger-Mietwagen.de. As for taxis, both Uber and MyTaxi are active in Munich. There are several e-scooter companies competing for market share. 
+The main car sharing providers are [SHARE NOW](https://www.share-now.com) and [Sixt Share](https://www.sixt.de/share/). For renting a car, best is probably to compare on [CHECK24](https://mietwagen.check24.de) or [billiger-mietwagen.de](https://www.billiger-mietwagen.de). As for taxis, both [Uber](https://www.uber.com) and [FREE NOW](https://free-now.com/de/) (formerly "MyTaxi") are active in Munich. There are several e-scooter companies competing for market share. 
 
 ## Shopping
 
@@ -30,10 +38,11 @@ The main car sharing providers are SHARE NOW and Sixt Share. For renting a car, 
 * Typical grocery stores are:
   * Discount: ALDI, LIDL, Penny, Netto
   * Supermarket: EDEKA, REWE
-* There are services like REWE Lieferservice and "ALDI liefert" for bringing groceries to your apartment
-* MyDealz is a German shopping community where it's users share, rate, and discuss shopping deals. When deals get upvoted, they turn "hot". It is possible to set keyword alerts incl. limiting the alerts to deals that have already turned hot.
-* Viktualienmarkt is the most famous food market in Munich - in a variety of small independent stands, you can get very high quality foodstuff.
-* The largest shopping street is Kaufingerstr, which connects Marienplatz and Stachus. Other shopping sights like Konen, Hofstatt, and Karstadt are close-by as well.
+* There are services like [REWE Lieferservice](https://www.rewe.de/service/lebensmittel-lieferservice/) for bringing groceries to your apartment
+* [MyDealz](https://www.mydealz.de) is a German shopping community where it's users share, rate, and discuss shopping deals. When deals get upvoted, they turn "hot". It is possible to set keyword alerts incl. limiting the alerts to deals that have already turned hot.
+* [Viktualienmarkt](https://de.wikipedia.org/wiki/Viktualienmarkt) is the most famous food market in Munich - in a variety of small independent stands, you can get very high quality foodstuff.
+* The largest shopping street is [Kaufingerstraße](https://de.wikipedia.org/wiki/Kaufingerstraße), which connects Marienplatz and Stachus. Other shopping sights like Konen, Hofstatt, and Karstadt are close-by as well.
+* If you are looking for luxury goods like Chartier, Gucci, Armani etc., turn to the [Maximilianstraße](https://de.wikipedia.org/wiki/Maximilianstraße_%28München%29)
 * The largest shopping malls are Pep in Neuperlach and Olympia Einkaufszentrum. These are mostly frequented by people who either live there or come from the outskirts, not really from people from the city center.
 * A 1h drive north is Ingolstadt Village, a collective of brand outlet stores.
 
@@ -43,15 +52,15 @@ The main car sharing providers are SHARE NOW and Sixt Share. For renting a car, 
 * Usually you need to take care about electricity costs, and internet & phone, yourself.
 * Besides rent, every household has to pay a monthly GEZ fee to finance the public broadcast services
 * In case you don't want to receive advertisements that are put into your mailbox, you can order a free "no-ads" sticker at AWM
-* Trash: At every house, there are trash bins for "normal waste", paper, and organic ("bio"). You are supposed to use recycling spots to throw away plastic, glass, and cans. Other trash should be be brought to the "Wertstoffhof"
+* Trash: At every house, there are trash bins for "normal waste", paper, and organic ("bio"). You are supposed to use recycling spots to throw away plastic, glass, and cans. Other trash can be be brought to a "Wertstoffhof" (free of charge). Find the next Wertstoffhof [here](https://www.awm-muenchen.de/index/wertstoffhoefe/wertstoffhoefe.html).
 * Munich's tap water is very good, one of the best in Europe
 
 ## Finances
 
 ### Banking
 
-* N26 is a German challenger Bank, app-focused
-* DKB german direct Bank, Comdirect also good
+* [N26](https://n26.com) is a German challenger Bank, app-focused
+* [DKB](https://www.dkb.de) is a German direct Bank (bank without physical dependencies), Comdirect is also good
 * classical banks: Deutsche, Commerzbank,...
 
 ### Taxes
@@ -64,10 +73,10 @@ There are two mandatory insurances: Health insurance, and car insurance in case 
 
 ## Internet & Phone
 
-* Internet for Home price comparison: <https://m.check24.de/dsl/>
+* Internet for Home price comparison: [CHECK24 DSL](https://www.check24.de/dsl/)
 * mobile phone:
-* there are three Network providers: Telekom, Vodafone, Telefonica
-* <https://www.winsim.de/> and <https://www.premiumsim.de/> are very good, especially their monthly-cancelable offerings
+  * there are three network providers: Telekom, Vodafone, Telefonica. Telekom offers the best network, but is the most expensive. Telefonica is the cheapest, but the network outside of larger cities is not very good (inside Munich its fine). Vodafone is in between.
+  * <https://www.winsim.de/> and <https://www.premiumsim.de/> are very good, especially their monthly-cancelable offerings
 
 ## News
 
@@ -102,6 +111,7 @@ There are two mandatory insurances: Health insurance, and car insurance in case 
 ### Concerts
 
 - Notable concert halls and areas are the Gasteig (mostly for classical music), Zenith, Muffathalle, Tonhalle, Backstage
+- [Bayerische Staatsoper](https://www.staatsoper.de) is is the largest opera house in Germany & offers regular opera, ballet, and orchestra performances.
 
 ## Day trips
 
