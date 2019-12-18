@@ -41,12 +41,12 @@ The main car sharing providers are [SHARE NOW](https://www.share-now.com) and [S
   * Discount: ALDI, LIDL, Penny, Netto
   * Supermarket: EDEKA, REWE
 * There are services like [REWE Lieferservice](https://www.rewe.de/service/lebensmittel-lieferservice/) for bringing groceries to your apartment
-* [MyDealz](https://www.mydealz.de) is a German shopping community where it's users share, rate, and discuss shopping deals. When deals get upvoted, they turn "hot". It is possible to set keyword alerts incl. limiting the alerts to deals that have already turned hot.
 * [Viktualienmarkt](https://de.wikipedia.org/wiki/Viktualienmarkt) is the most famous food market in Munich - in a variety of small independent stands, you can get very high quality foodstuff.
 * The largest shopping street is [Kaufingerstraße](https://de.wikipedia.org/wiki/Kaufingerstraße), which connects Marienplatz and Stachus. Other shopping sights like Konen, Hofstatt, and Karstadt are close-by as well.
 * If you are looking for luxury goods like Chartier, Gucci, Armani etc., turn to the [Maximilianstraße](https://de.wikipedia.org/wiki/Maximilianstraße_%28München%29)
 * The largest shopping malls are Pep in Neuperlach and Olympia Einkaufszentrum. These are mostly frequented by people who either live there or come from the outskirts, not really from people from the city center.
 * A 1h drive north is Ingolstadt Village, a collective of brand outlet stores.
+* [MyDealz](https://www.mydealz.de) is a German shopping community where it's users share, rate, and discuss shopping deals. When deals get upvoted, they turn "hot". It is possible to set keyword alerts incl. limiting the alerts to deals that have already turned hot.
 
 ## Living
 
