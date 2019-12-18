@@ -29,6 +29,8 @@ Munich is bike-friendly and is constantly working on making cycling more attract
 
 The MVV offers a nice bike route calculation website: <http://rad.mvv-muenchen.de> The bike option in Google Maps is also pretty good.
 
+The official city website [muenchen.de](https://www.muenchen.de/rathaus/Stadtverwaltung/baureferat/freizeit-sport-natur/radlnetz/routen.html) has a list of bike route suggestions through Munich.
+
 With MVG Bike, the MVG offers bike sharing services (for use with the "MVG More" app). There are bike stations, but bikes can be rented and returned outside of stations (inside the city radius).
 
 ### Other means of transport
