@@ -27,7 +27,7 @@ At Memmingen "[Allgäu Airport](https://www.allgaeu-airport.de)" (also: "Münche
 ### Bike
 Munich is bike-friendly and is constantly working on making cycling more attractive. Many streets have bike lanes, many one-way steets are open in both directions for cyclists (special street sign required). You can find information & rules for cyclists in this [info document (German)](https://www.adfc.de/fileadmin/user_upload/Im-Alltag/Recht/Downloads/Verkehrsrecht_fuer_Radfahrende_Stand_06.2018.pdf) by the adfc (General German Cycling Club).
 
-The MVV offers a nice bike route calculation website: http://rad.mvv-muenchen.de The bike option in Google Maps is also pretty good.
+The MVV offers a nice bike route calculation website: <http://rad.mvv-muenchen.de> The bike option in Google Maps is also pretty good.
 
 With MVG Bike, the MVG offers bike sharing services (for use with the "MVG More" app). There are bike stations, but bikes can be rented and returned outside of stations (inside the city radius).
 
