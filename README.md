@@ -71,19 +71,28 @@ For filing tax reports, you can use the free government-provided software ELSTER
 
 ## Insurances
 
-There are two mandatory insurances: Health insurance, and car insurance in case you are owning a car.
+In Germany, there are two mandatory insurances: Health insurance, and car insurance in case you are owning a car. Generally recommended are "Haftpflichtversicherung" (often mentioned as "should definitely have it"), "Hausratversicherung", and "Berufsunfähigkeitsversicherung".
+
+### Health Insurance
+
+Germany has a two-class health insurance system: There is the statutory health insurance ("gesetzliche Krankenversicherung"), and private health insurance. 
+
+Statutory health insurance is the default, there is a legally fixed fee (x% of your salary, capped at a certain amount). Although the fee is the same and the whole statutory insurance industry is heavily regulated, there are multiple offerers for statutory health insurance. They distinguish themselves mostly by some extra benefits and services, and differences in a small additional fee that they are free to set. The most popular one is "Techniker Krankenkasse". But you cannot go too wrong with either.
+
+Only people making more than 60k€/year or who are self-employed are allowed to switch into private health insurance. In contrast to statutory insurance, the monthly fee is not a percentage of your salary, but a fixed fee depending on your age and which services should be covered to what extend. Private health insurance services can be customized to a great extent (in both directions: very good coverage, or very cheap fee). When you are young, private health insurance is generally much cheaper than statutory health insurance. But as fees increase with age, it is not clear whether you will save money in the long run. The switch back to statutory insurance is not easily possible - you likely  need to again earn less than 60k€ to switch back.
 
 ## Internet & Phone
 
 * Internet for Home price comparison: [CHECK24 DSL](https://www.check24.de/dsl/)
 * mobile phone:
-  * there are three network providers: Telekom, Vodafone, Telefonica. Telekom offers the best network, but is the most expensive. Telefonica is the cheapest, but the network outside of larger cities is not very good (inside Munich its fine). Vodafone is in between.
+  * in Germany, there are three network providers: Telekom, Vodafone, Telefonica. Telekom offers the best network, but is the most expensive. Telefonica is the cheapest, but the network outside of larger cities is not very good. Inside Munich its fine. Vodafone is in between.
   * <https://www.winsim.de/> and <https://www.premiumsim.de/> are very good, especially their monthly-cancelable offerings
 
 ## News
 
-* Süddeutsche Zeitung with headquarters in Munich is a world-class newspaper, arguably the best German daily newspaper. They took part in uncovering the Panama Papers and the Paradise Papers. Their online presence is on <https://www.sueddeutsche.de/>. They also have really good coverage what is happening locally in Munich: <https://www.sueddeutsche.de/muenchen>
-* The local newspapers are Abendzeitung, tz, and Münchner Merkur.
+Süddeutsche Zeitung with headquarters in Munich is a world-class newspaper, arguably the best German daily newspaper. They took part in uncovering the Panama Papers and the Paradise Papers. Their online presence is on <https://www.sueddeutsche.de/>. They also have really good coverage what is happening locally in Munich: <https://www.sueddeutsche.de/muenchen>
+
+The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 
 ## Leisure
 
@@ -108,7 +117,7 @@ There are two mandatory insurances: Health insurance, and car insurance in case 
 ### Movies
 
 - The two largest cinemas in Munich are mathäser and CinemaxX. 
-- "Cinema" at Stiglmaierplatz is specialized on showing movies in OV
+- "Cinema" at Stiglmaierplatz is specialized in showing movies in OV.
 
 ### Concerts
 
