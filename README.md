@@ -10,7 +10,7 @@ Official plans also count Hirschgarten, Laim, and Pasing to the Stammstrecke, al
 While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays. The problem is set to be solved by the "[2. Stammstrecke](https://www.2.stammstrecke-muenchen.de/)" in 2028.
 
 #### Background Knowledge
-*Background knowledge:* U-Bahn, Tram, and Bus service inside Munich is provided by the "MVG". S-Bahn is provided by the DB (Deutsche Bahn). Both MVG and DB are member of the "MVV", an association of transportation groups to provide service for Munich and around.
+U-Bahn, Tram, and Bus service inside Munich is provided by the "MVG". S-Bahn is provided by the DB (Deutsche Bahn). Both MVG and DB are member of the "MVV", an association of transportation groups to provide service for Munich and around.
 
 ### Car
 Different to cities like London, there is no special fee for owning a car inside the city. The only extra cost is parking. Either you have free parking in the streets where you live (less likely in the inner city), your house-provided garage spots (around 100€/month), or your apply for a "Anwohner-Parkausweis" (very cheap at around 60€/year), which gives you the right to use the park lots in the streets near where you live. Application for an "Anwohner-Parkausweis" [here](https://www.muenchen.de/rathaus/Stadtverwaltung/Kreisverwaltungsreferat/Verkehr/Parkraummanagement/Parkausweis-fuer-Anwohner.html).
