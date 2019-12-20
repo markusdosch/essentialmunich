@@ -20,7 +20,7 @@ Generally, the allowed maximum driving speed inside the city is 50km/h, outside 
 Munich has two major ring streets. The "[Mittlerer Ring](https://de.wikipedia.org/wiki/Bundesstraße_2_R)" with a general driving speed of 60km/h, and the "[Autobahnring](https://de.wikipedia.org/wiki/Bundesautobahn_99)". 
 
 ### Flying
-[Munich Airport](https://www.munich-airport.de) (also "Flughafen Franz Josef Strauß", shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of highest-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an [airport bus](https://www.airportbus-muenchen.de) with a one-way price of 10,50€. It is available to customers of all airlines, not just Lufthansa. easyJet & Eurowings are notable budget airlines that frequent this airport.
+[Munich Airport](https://www.munich-airport.de) (also "Flughafen Franz Josef Strauß", shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of highest-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an [airport bus](https://www.airportbus-muenchen.de) with a one-way price of 10,50€ (two-way: 17€). It is available to customers of all airlines, not just Lufthansa. easyJet & Eurowings are notable budget airlines that frequent this airport.
 
 At Memmingen "[Allgäu Airport](https://www.allgaeu-airport.de)" (also: "München West", shortcode: FMM), Ryanair offers cheap flights. There are regular shuttle bus transfers between Munich and Memmingen that take around 1.5h. 
 
@@ -38,7 +38,7 @@ The main car sharing providers are [Share Now](https://www.share-now.com) and [S
 
 ## Shopping
 
-* All stores close until 20:00 and are closed on Sunday. The only supermarkets open later and on Sunday are those located at train stations, such as the Edeka at Hauptbahnhof (main station) or Ostbahnhof, or the "to go" supermarket REWE to Go at Hauptbahnhof, which is open 24/7.
+* All stores close until 20:00 and are closed on Sundays. Some notable exceptions: The Edekas at Hauptbahnhof & Ostbahnhof (Mo-Su, until 23:00), and "REWE to Go" supermarkets, that are located at Hauptbahnhof and at several gas stations (open 24/7).
 * Typical grocery stores are:
   * Discount: ALDI, LIDL, Penny, Netto, Norma
   * Supermarket: Edeka, REWE, Feneberg
@@ -46,7 +46,7 @@ The main car sharing providers are [Share Now](https://www.share-now.com) and [S
 * [Viktualienmarkt](https://de.wikipedia.org/wiki/Viktualienmarkt) is the most famous food market in Munich - in a variety of small independent stands, you can get very high quality foodstuff.
 * The largest shopping street is [Kaufingerstraße](https://de.wikipedia.org/wiki/Kaufingerstraße), which connects Marienplatz and Stachus. Other shopping sights like Konen, Hofstatt, and Karstadt are close-by as well.
 * If you are looking for luxury goods like Chartier, Gucci, Armani etc., turn to the [Maximilianstraße](https://de.wikipedia.org/wiki/Maximilianstraße_%28München%29).
-* The largest shopping malls are "Olympia-Einkaufszentrum" at the intersection of U1 and U3, and "Pep" in Neuperlach.
+* The largest shopping malls are "Olympia-Einkaufszentrum" and "Pep" in Neuperlach. Shopping malls like these are mostly frequented by people who either live there or come from the outskirts, not really from people from the city center.
 * A 1h drive north is Ingolstadt Village, a collective of brand outlet stores.
 * [MyDealz](https://www.mydealz.de) is a German shopping community where its users share, rate, and discuss shopping deals. When deals get upvoted, they turn "hot". It is possible to set keyword alerts incl. limiting the alerts to deals that have already turned hot.
 
@@ -54,7 +54,7 @@ The main car sharing providers are [Share Now](https://www.share-now.com) and [S
 
 * So-called "warm rent" comprises: Rent + utility costs (especially heating and water). Usually, you will pay a monthly lump-sum for the utility costs. At the end of the year, the landlord is required to do a "Nebenkostenrechnung" (calculate the actual exact utility costs for the year). Then, either the renter gets back what was paid too much, or has to pay what was paid too less (then, the future monthly lump-sum should be adjusted) 
 * Usually you need to take care of electricity costs, internet access, and landline phone yourself.
-* Besides rent, every household is required to pay a monthly fee for the public broadcast services.
+* Besides rent, every household is required to pay a monthly fee for the public broadcast services ("[GEZ Gebühr](https://www.rundfunkbeitrag.de)").
 * In case you don't want to receive advertisements that are put into your mailbox, you can order a free "no-ads" sticker at AWM.
 * Trash: At every house, there are trash bins for "normal waste", paper, and organic ("bio"). You are supposed to use recycling spots to throw away plastic, glass, and cans. Other trash can be be brought to a "Wertstoffhof" (free of charge). Find the next Wertstoffhof [here](https://www.awm-muenchen.de/index/wertstoffhoefe/wertstoffhoefe.html).
 * Munich's tap water is very good, one of the best in Europe. As such, it is suitable for baby food (source: [municipal utilities](https://www.swm.de/privatkunden/m-wasser/wasserqualitaet.html)). As the water mostly comes from the area of the alps, it is quite calcareous/"hard". Contrary to popular belief, hard water does not "calcify" the body, but is perfectly healthy without any filtering. In fact, the municipal utilities (SWM) officially recommend drinking tap water instead of bottled water - it is much cheaper & more environmental-friendly (source: [municipal utilities](https://www.swm.de/privatkunden/m-wasser/wasserqualitaet.html)). For longer durability of your home appliances, you should add a descaler when using a washing machine & regularly descale your water kettle & water taps.
@@ -66,7 +66,7 @@ The main car sharing providers are [Share Now](https://www.share-now.com) and [S
 * Free accounts (no conditions) at direct (online) banks:
   * [N26](https://n26.com) is a German fintech bank, smartphone-based, great app
   * [DKB](https://www.dkb.de) is less modern, but offers more services
-  * [comdirect](https://www.comdirect.de/) allows free withdrawals and deposits at selected bank's branches
+  * [comdirect](https://www.comdirect.de/) is a subsidiary of the branch-based bank "Commerzbank"
 * Branch-based banks (free only with conditions): Commerzbank, Hypo-Vereinsbank, Deutsche Bank, Stadtsparkasse
 
 ### Taxes
