@@ -105,9 +105,11 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 - Olympiapark
 
 ### Notable regular events
+
+#### Others
 - From mid of March till the beginning of April, there is the so-called "Starkbierfest", where lots of restaurants provide you with special stronger beer from local brewery. The most famous restaurant for this event is the Paulaner-Nockherberg.
-- Later in spring, there is the "Frühlingsfest" at the Theresienwiese
-- From Mid/End of September till beginning of October, there is the world-famous "Oktoberfest" at the Theresienwiese
+- Later in spring (April/May), there is the "Frühlingsfest" at the Theresienwiese
+- From Mid/End of September till beginning of October, there is the world-famous "Oktoberfest" at the Theresienwiese.
 - In summer and winter, there is the "Tollwood" festival. In summer, it takes place at the Olympiapark. In winter, at the Theresienwiese.
 
 ## Entertainment
@@ -115,8 +117,8 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 ### TV & Radio
 
 - There are a number of Free-TV and Pay-TV channels in Germany
-- Channels like ARD, ZDF, and BR are publicly financed. They are financed by the GEZ fee, a monthly fee every household in Germany has to pay.
-- There are two large TV groups in Germany: RTL Group, that operates RTL, RTL2, Super RTL, VOX, n-tv, as well as a couple other Pay-TV ones. And ProSiebenSat.1, that operates ProSieben, SAT.1, kabel eins, sixx, ProSieben MAXX
+- Channels like ARD, ZDF, and BR are publicly financed ("Rundfunkbeitrag")
+- There are two large TV groups in Germany: RTL Group, that operates RTL, RTL2, Super RTL, VOX, n-tv, as well as a couple other Pay-TV ones. And ProSiebenSat.1, that operates ProSieben, SAT.1, kabel eins, sixx, and ProSieben MAXX.
 
 ### Movies
 
