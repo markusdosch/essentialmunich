@@ -1,3 +1,7 @@
+ul.reference {
+  text-align: center;
+}
+
 ul.reference > li {
   display: inline-block;
 }
