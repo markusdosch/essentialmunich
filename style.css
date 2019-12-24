@@ -6,6 +6,10 @@ ul.reference > li {
   display: inline-block;
 }
 
+ul.reference > li+li { 
+  border-left: 1px solid #000000;
+}
+
 .title a, .title a:visited, .title a:active {
   color: black !important;
 }
