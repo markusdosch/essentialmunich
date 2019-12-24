@@ -37,6 +37,13 @@ $if(title)$
 $if(subtitle)$
 <p class="subtitle">$subtitle$</p>
 $endif$
+$if(reference)$
+<ul class="reference">
+$for(reference)$
+<li>$reference$</li>
+$endfor$
+</ul>
+$endif$
 $if(date)$
 <p class="date">$date$</p>
 $endif$
@@ -51,9 +58,6 @@ $table-of-contents$
 </nav>
 $endif$
 $body$
-$for(reference)$
-<p class="reference">$reference$</p>
-$endfor$
 $for(include-after)$
 $include-after$
 $endfor$

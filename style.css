@@ -1,6 +1,5 @@
-/* Added afterwards */
-p.reference {
-  text-align: center;
+ul.reference > li {
+  display: inline-block;
 }
 
 .title a, .title a:visited, .title a:active {
