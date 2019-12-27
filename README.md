@@ -119,6 +119,7 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 - There are a number of Free-TV and Pay-TV channels in Germany
 - Channels like ARD, ZDF, and BR are publicly financed ("Rundfunkbeitrag")
 - There are two large TV groups in Germany: RTL Group, that operates RTL, RTL2, Super RTL, VOX, n-tv, as well as a couple other Pay-TV ones. And ProSiebenSat.1, that operates ProSieben, SAT.1, kabel eins, sixx, and ProSieben MAXX.
+- There are a number of local radio stations. On state level, the most popular stations are Bayern 1 and Antenne Bayern. Bayern 1 (adult contemporary, a bit retro), amongst with its sister-channels Bayern 2 (lots of moderated formats & more niche music), Bayern 3 (adult contemporary with focus on younger adults), Bayern 4 (classic music), and Bayern 5 (news), are publicly financed. Antenne Bayern (adult contemporary) is the most popular private channel in Bavaria, and also Germany. On city level, popular stations are Gong 96.3, Energy München, Charivari München, and Radio Arabella.
 
 ### Movies
 
