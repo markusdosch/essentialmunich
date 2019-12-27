@@ -4,7 +4,7 @@ ul.reference {
 
 ul.reference > li {
   display: inline-block;
-  padding: 0 8px;
+  padding: 0 6px;
 }
 
 ul.reference > li+li { 
