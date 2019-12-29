@@ -12,8 +12,7 @@ jobs:
         fetch-depth: 1
     - run: | 
         mkdir output
-        cp style.css output/
-        cp favicon.ico output/
+        cp static/* output/
     - run: echo "::set-output name=now::$(date '+%B %e, %Y')"
       id: date
     - uses: ./.github/actions/pandoc-conversion-action
