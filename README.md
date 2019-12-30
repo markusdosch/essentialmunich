@@ -136,7 +136,7 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 * Partnachklamm
 * Schliersee
 * Neuschwanstein
-* Unterachleißheim
+* Unterschleißheim
 * Chiemsee
 * Zugspitze
 * Therme Erding
