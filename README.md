@@ -133,10 +133,12 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 
 ## Day trips
 
-* Partnachklamm
-* Schliersee
-* Neuschwanstein
-* Unterschleißheim
-* Chiemsee
-* Zugspitze
-* Therme Erding
+* [Schloss Neuschwanstein](https://de.wikipedia.org/wiki/Schloss_Neuschwanstein), the role model for the Disney castle
+* [Schlossanlage Schleißheim](https://de.wikipedia.org/wiki/Schlossanlage_Schleißheim)
+* Hiking
+  + [Partnachklamm](https://de.wikipedia.org/wiki/Partnachklamm)
+  + Around [Tegernsee](https://de.wikipedia.org/wiki/Tegernsee) and [Schliersee](https://de.wikipedia.org/wiki/Schliersee)
+* [Chiemsee](https://de.wikipedia.org/wiki/Chiemsee), also called the *Bavarian Sea*
+* [Starnberger See](https://de.wikipedia.org/wiki/Starnberger_See)
+* [Zugspitze](https://de.wikipedia.org/wiki/Zugspitze), Germany's highest mountain
+* [Therme Erding](https://de.wikipedia.org/wiki/Therme_Erding), the world's largest thermal bath with 35 saunas and 27 slides
