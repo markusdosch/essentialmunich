@@ -112,6 +112,9 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 - From Mid/End of September till beginning of October, there is the world-famous "Oktoberfest" at the Theresienwiese.
 - In summer and winter, there is the "Tollwood" festival. In summer, it takes place at the Olympiapark. In winter, at the Theresienwiese.
 
+## Sports
+*Work in Progress - Contributions are Welcome!*
+
 ## Entertainment
 
 ### TV & Radio
