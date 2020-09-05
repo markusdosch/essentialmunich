@@ -109,6 +109,8 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 #### Others
 - From mid of March till the beginning of April, there is the so-called "Starkbierfest", where lots of restaurants provide you with special stronger beer from local brewery. The most famous restaurant for this event is the Paulaner-Nockherberg.
 - Later in spring (April/May), there is the "Frühlingsfest" at the Theresienwiese
+- In July, there is the "Sommernachtstraum" at Olympiapark. It's a festival with big fireworks at the end. 
+- In September, there is the "Streetlife Festival" at Ludwigstraße, a big sustainability festival.
 - From Mid/End of September till beginning of October, there is the world-famous "Oktoberfest" at the Theresienwiese.
 - In summer and winter, there is the "Tollwood" festival. In summer, it takes place at the Olympiapark. In winter, at the Theresienwiese.
 
