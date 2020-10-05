@@ -135,6 +135,7 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 
 - Notable concert halls and areas are the Gasteig (mostly for classical music), Zenith, Muffathalle, Tonhalle, Backstage
 - [Bayerische Staatsoper](https://www.staatsoper.de) is is the largest opera house in Germany & offers regular opera, ballet, and orchestra performances.
+- Tickets for concerts and other types of events can be bought at [München Ticket](https://www.muenchenticket.de/), an official service provided by the city. Alternatives include [eventim](https://www.eventim.de/) and [ticketmaster](https://www.ticketmaster.de).
 
 ## Day trips
 
