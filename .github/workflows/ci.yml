@@ -18,13 +18,7 @@ jobs:
     - uses: ./.github/actions/pandoc-conversion-action
       with:
         args: "-s --toc --template=template.html --metadata-file=metadata.yml -M date=\"Last updated: ${{ steps.date.outputs.now }}\" --css style.css README.md -o output/index.html"
-    - run: |
-        eval "$(ssh-agent -a ${SSH_AUTH_SOCK})"
-        ssh-add - <<< "${ESSENTIALMUNICH_PRIVATE_KEY}"
-        mkdir $HOME/.ssh
-        echo "${ESSENTIALMUNICH_HOST}" >> $HOME/.ssh/known_hosts
-        rsync -avz --delete output/ essentialmunich@essentialmunich.de:/home/essentialmunich/essentialmunich.de/
-      env:
-        SSH_AUTH_SOCK: /tmp/ssh-auth.sock
-        ESSENTIALMUNICH_PRIVATE_KEY: ${{ secrets.ESSENTIALMUNICH_PRIVATE_KEY }}
-        ESSENTIALMUNICH_HOST: ${{ secrets.ESSENTIALMUNICH_HOST }}
+    - uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output      
