@@ -1,6 +1,6 @@
 ## Transportation
 ### Public Transport
-There are two rapid-transit systems: the "U-Bahn" (covering the city region) and the "S-Bahn" (connecting the city to the outskirts). Within the city, there are additional light rail ("Tram") and bus services. The monthly ticket is called "IsarCard". It costs 55,20€ for the M-Zone, which covers most of Munich. Recommended apps for calculating the routes are "[MVG Fahrinfo](https://www.mvg.de/services/mobile-services/fahrinfo.html)" and "[MVV App](https://www.mvv-muenchen.de/fahrplanauskunft/mobile-auskunft-app/mvv-app/index.html)". Both apps can be set to English.
+There are two rapid-transit systems: the "U-Bahn" (covering the city region) and the "S-Bahn" (connecting the city to the outskirts). Within the city, there are additional light rail ("Tram") and bus services. The monthly ticket is called "IsarCard". It costs 59,10€ for the M-Zone, which covers most of Munich. Recommended apps for calculating the routes are "[MVG Fahrinfo](https://www.mvg.de/services/mobile-services/fahrinfo.html)" and "[MVV App](https://www.mvv-muenchen.de/fahrplanauskunft/mobile-auskunft-app/mvv-app/index.html)". Both apps can be set to English.
 
 #### S-Bahn Stammstrecke
 The core section of the S-Bahn is called "Stammstrecke", because all S-Bahn lines go through here: Ostbahnhof, Rosenheimer Platz, Isartor, Marienplatz, Karlsplatz (Stachus), Hauptbahnhof, Hackerbrücke, Donnersbergerbrücke. 
@@ -34,7 +34,7 @@ The official city website [muenchen.de](https://www.muenchen.de/rathaus/Stadtver
 With [MVG Rad](https://www.mvg.de/services/mobile-services/mvg-rad.html), the MVG offers bike sharing services (for use with the "MVG More" app). There are bike stations, but bikes can be rented and returned outside of stations (inside the city radius).
 
 ### Other means of transport
-The main car sharing providers are [Share Now](https://www.share-now.com) and [Sixt Share](https://www.sixt.de/share/). For long-term car rentals, you can compare prices on [Check24](https://mietwagen.check24.de) or [billiger-mietwagen.de](https://www.billiger-mietwagen.de). There are taxi services, as well as both [Uber](https://www.uber.com) and [Free Now](https://free-now.com/de/) (formerly "MyTaxi") ride hailing services available. Additionally, several e-scooter companies are competing for market share. 
+The main car sharing providers are [Share Now](https://www.share-now.com) and [Sixt Share](https://www.sixt.de/share/). A new car sharing provider is [Miles](https://miles-mobility.com), that bases its pricing on distance driven, not time spent. For long-term car rentals, you can compare prices on [Check24](https://mietwagen.check24.de) or [billiger-mietwagen.de](https://www.billiger-mietwagen.de). There are taxi services, as well as both [Uber](https://www.uber.com) and [Free Now](https://free-now.com/de/) (formerly "MyTaxi") ride hailing services available. Additionally, several e-scooter companies are competing for market share. 
 
 ## Shopping
 
@@ -47,7 +47,7 @@ The main car sharing providers are [Share Now](https://www.share-now.com) and [S
 * The largest shopping street is [Kaufingerstraße](https://de.wikipedia.org/wiki/Kaufingerstraße), which connects Marienplatz and Stachus. Other shopping sights like Konen, Hofstatt, and Karstadt are close-by as well.
 * If you are looking for luxury goods like Chartier, Gucci, Armani etc., turn to the [Maximilianstraße](https://de.wikipedia.org/wiki/Maximilianstraße_%28München%29).
 * The largest shopping malls are "Olympia-Einkaufszentrum" and "Pep" in Neuperlach. Shopping malls like these are mostly frequented by people who either live there or come from the outskirts, not really from people from the city center.
-* A 1h drive north is Ingolstadt Village, a collective of brand outlet stores.
+* A 1h drive north is [Ingolstadt Village](https://www.tbvsc.com/ingolstadt-village/de), a collective of brand outlet stores.
 * [MyDealz](https://www.mydealz.de) is a German shopping community where its users share, rate, and discuss shopping deals. When deals get upvoted, they turn "hot". It is possible to set keyword alerts incl. limiting the alerts to deals that have already turned hot.
 
 ## Living
