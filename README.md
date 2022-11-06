@@ -1,31 +1,31 @@
 ## Transportation
 ### Public Transport
-There are two rapid-transit systems: the "U-Bahn" (covering the city region) and the "S-Bahn" (connecting the city to the outskirts). Within the city, there are additional light rail ("Tram") and bus services. The monthly ticket is called "IsarCard". It costs 59,10€ for the M-Zone, which covers most of Munich. Recommended apps for calculating the routes are "[MVG Fahrinfo](https://www.mvg.de/services/mobile-services/fahrinfo.html)" and "[MVV App](https://www.mvv-muenchen.de/fahrplanauskunft/mobile-auskunft-app/mvv-app/index.html)". Both apps can be set to English.
+There are two rapid-transit systems: the "U-Bahn" (covering the city region) and the "S-Bahn" (connecting the city to the outskirts). Within the city, there are additional light rail ("Tram") and bus services. The monthly ticket is called "IsarCard". It costs 59,10€ for the M-Zone, which covers most of Munich. Recommended apps for calculating the routes are "[MVG Fahrinfo](https://www.mvg.de/services/mobile-services/fahrinfo.html)" and "[MVV App](https://www.mvv-muenchen.de/fahrplanauskunft/mobile-auskunft-app/mvv-app/index.html)". Both apps can be set to English. Most tickets incl. the monthly ticket can be bought via these apps.
 
 #### S-Bahn Stammstrecke
 The core section of the S-Bahn is called "Stammstrecke", because all S-Bahn lines go through here: Ostbahnhof, Rosenheimer Platz, Isartor, Marienplatz, Karlsplatz (Stachus), Hauptbahnhof, Hackerbrücke, Donnersbergerbrücke. 
 
 Official plans also count Hirschgarten, Laim, and Pasing to the Stammstrecke, although not all (but most) lines go through them. 
 
-While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel in each side, if something happens to one line, all lines will be affected and have delays. The problem is set to be solved by the "[2. Stammstrecke](https://www.2.stammstrecke-muenchen.de/)" in 2028.
+While the concept of a "Stammstrecke" is nice for people having to board or get off one of these stations, it has turned into a bottleneck. As there is only one tunnel for each direction, if something happens to one line, all lines will be affected and have delays. The problem is set to be solved by the "[2. Stammstrecke](https://www.2.stammstrecke-muenchen.de/)" in 2035.
 
 #### Background Knowledge
 U-Bahn, Tram, and Bus service inside Munich is provided by the MVG. S-Bahn is provided by the DB (Deutsche Bahn). Both MVG and DB are member of the MVV, an association of transportation groups to provide service for Munich and around.
 
 ### Car
-Contrary to cities like London, there are no extra fees for driving a car in the city. The only extra cost is parking. Either you have free parking in the streets where you live (less likely in the inner city), your house-provided garage spots (around 100€/month), or you apply for a resident parking permit ("Anwohner-Parkausweis"; very cheap at around 60€/year), which gives you the right to use the parking spots in the streets near where you live. Application for an "Anwohner-Parkausweis" [here](https://www.muenchen.de/rathaus/Stadtverwaltung/Kreisverwaltungsreferat/Verkehr/Parkraummanagement/Parkausweis-fuer-Anwohner.html).
+In contrary to cities like London, there are no extra fees for driving a car in the city. The only extra cost is parking. In dense areas of the city, you can apply for a resident parking permit ("Anwohner-Parkausweis"; very cheap at around 60€/year), which gives you the right to use the parking spots in the streets near where you live. Otherwise, these spots either cost a certain amount per hour, or you are not allowed to park there at all during working days (= Monday to Saturday). Application for an "Anwohner-Parkausweis" [here](https://www.muenchen.de/rathaus/Stadtverwaltung/Kreisverwaltungsreferat/Verkehr/Parkraummanagement/Parkausweis-fuer-Anwohner.html).
 
 Generally, the allowed maximum driving speed inside the city is 50km/h, outside the city 100km/h, and on the Autobahn unlimited (with a recommended speed of 130km/h). Always except otherwise noted.
 
 Munich has two major ring streets. The "[Mittlerer Ring](https://de.wikipedia.org/wiki/Bundesstraße_2_R)" with a general driving speed of 60km/h, and the "[Autobahnring](https://de.wikipedia.org/wiki/Bundesautobahn_99)". 
 
 ### Flying
-[Munich Airport](https://www.munich-airport.de) (also "Flughafen Franz Josef Strauß", shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of highest-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an [airport bus](https://www.airportbus-muenchen.de) with a one-way price of 10,50€ (two-way: 17€). It is available to customers of all airlines, not just Lufthansa. easyJet & Eurowings are notable budget airlines that frequent this airport.
+[Munich Airport](https://www.munich-airport.de) (also "Flughafen Franz Josef Strauß", shortcode: MUC) is the second-busiest airport in Germany afer Frankfurt, and frequently one of highest-rated airports worldwide. It is reachable by S-Bahn (S1, S8) and by car. Lufthansa also offers an [airport bus](https://www.airportbus-muenchen.de) with a one-way price of 11€ (two-way: 17.50€). It is available to customers of all airlines, not just Lufthansa. easyJet & Eurowings are notable budget airlines that frequent this airport.
 
 At Memmingen "[Allgäu Airport](https://www.allgaeu-airport.de)" (also: "München West", shortcode: FMM), Ryanair offers cheap flights. There are regular shuttle bus transfers between Munich and Memmingen that take around 1.5h. 
 
 ### Bike
-Munich is bike-friendly and is constantly working on making cycling more attractive. Many streets have bike lanes, many one-way steets may be used in both directions by cyclists (special street sign required). You can find information & rules for cyclists in this [info document (German)](https://www.adfc.de/fileadmin/user_upload/Im-Alltag/Recht/Downloads/Verkehrsrecht_fuer_Radfahrende_Stand_06.2018.pdf) by the ADFC (General German Cycling Club).
+Munich is bike-friendly and is constantly working on making cycling more attractive. Many streets have bike lanes, many one-way steets may be used in both directions by cyclists (special street sign required). You can find information & rules for cyclists in this [info document (German)](https://www.adfc.de/fileadmin/user_upload/Im-Alltag/Recht/Downloads/Verkehrsrecht_fuer_Radfahrende_6.20.pdf) by the ADFC (General German Cycling Club).
 
 The MVV offers a nice bike route calculation website: <http://rad.mvv-muenchen.de> The bike option in Google Maps is also pretty good.
 
@@ -34,7 +34,7 @@ The official city website [muenchen.de](https://www.muenchen.de/rathaus/Stadtver
 With [MVG Rad](https://www.mvg.de/services/mobile-services/mvg-rad.html), the MVG offers bike sharing services (for use with the "MVG More" app). There are bike stations, but bikes can be rented and returned outside of stations (inside the city radius).
 
 ### Other means of transport
-The main car sharing providers are [Share Now](https://www.share-now.com) and [Sixt Share](https://www.sixt.de/share/). A new car sharing provider is [Miles](https://miles-mobility.com), that bases its pricing on distance driven, not time spent. For long-term car rentals, you can compare prices on [Check24](https://mietwagen.check24.de) or [billiger-mietwagen.de](https://www.billiger-mietwagen.de). There are taxi services, as well as both [Uber](https://www.uber.com) and [Free Now](https://free-now.com/de/) (formerly "MyTaxi") ride hailing services available. Additionally, several e-scooter companies are competing for market share. 
+The main car sharing providers are [Share Now](https://www.share-now.com) and [Sixt Share](https://www.sixt.de/share/). A new car sharing provider is [Miles](https://miles-mobility.com), that bases its pricing on distance driven, not time spent. For car rentals, you can compare prices on [CHECK24](https://mietwagen.check24.de) or [billiger-mietwagen.de](https://www.billiger-mietwagen.de). There are taxi services, as well as both [Uber](https://www.uber.com) and [Free Now](https://free-now.com/de/) (formerly "MyTaxi") ride hailing services available. Additionally, several e-scooter companies are competing for market share.
 
 ## Shopping
 
@@ -42,8 +42,8 @@ The main car sharing providers are [Share Now](https://www.share-now.com) and [S
 * Typical grocery stores are:
   * Discount: ALDI, LIDL, Penny, Netto, Norma
   * Supermarket: Edeka, REWE, Feneberg
-* There are grocery delivery services, such as [REWE Lieferservice](https://www.rewe.de/service/lebensmittel-lieferservice/) and [Bringmeister](https://www.bringmeister.de/) (by Edeka).
 * [Viktualienmarkt](https://de.wikipedia.org/wiki/Viktualienmarkt) is the most famous food market in Munich - in a variety of small independent stands, you can get very high quality foodstuff.
+* There are grocery delivery services, such as [REWE Lieferservice](https://www.rewe.de/service/lebensmittel-lieferservice/) and [Bringmeister](https://www.bringmeister.de/) (by Edeka). In recent years, grocery startups like [Gorillas](https://gorillas.io/), [Flink](https://www.goflink.com) and [Getir](https://getir.com/) have launched in Munich. 
 * The largest shopping street is [Kaufingerstraße](https://de.wikipedia.org/wiki/Kaufingerstraße), which connects Marienplatz and Stachus. Other shopping sights like Konen, Hofstatt, and Karstadt are close-by as well.
 * If you are looking for luxury goods like Chartier, Gucci, Armani etc., turn to the [Maximilianstraße](https://de.wikipedia.org/wiki/Maximilianstraße_%28München%29).
 * The largest shopping malls are "Olympia-Einkaufszentrum" and "Pep" in Neuperlach. Shopping malls like these are mostly frequented by people who either live there or come from the outskirts, not really from people from the city center.
@@ -71,7 +71,7 @@ The main car sharing providers are [Share Now](https://www.share-now.com) and [S
 
 ### Taxes
 
-For filing tax reports, you can use the free government-provided software ELSTER. Alternatively, there exists paid software like WISO Steuern that helps optimizing the tax report.
+For filing tax reports, you can use the free government-provided software ELSTER. Alternatively, there exists paid software like WISO Steuern and Smartsteuer that help optimizing the tax report.
 
 ## Insurances
 
@@ -87,7 +87,7 @@ Only people making more than 60k€/year or who are self-employed are allowed to
 
 ## Internet & Phone
 
-* Internet for Home price comparison: [Check24 DSL](https://www.check24.de/dsl/)
+* Internet for Home price comparison: [CHECK24 DSL](https://www.check24.de/dsl/)
 * Mobile phone:
   * In Germany, there are three network providers: Telekom, Vodafone, Telefonica. Telekom offers the best network, but is the most expensive. Vodafone is comparable to Telekom. Telefonica is the cheapest, but the network outside of larger cities is not very good. Inside Munich it's fine.
   * Discount providers such as [Lidl Connect](https://www.lidl.de/de/lidl-connect/s7373597), [Aldi Talk](https://www.alditalk.de/), [winSIM](https://www.winsim.de/), [PremiumSIM](https://www.premiumsim.de/), and [congstar](https://www.congstar.de/) are cheap and use the networks of the above-mentioned providers.
@@ -124,11 +124,11 @@ The local newspapers are Abendzeitung, tz, and Münchner Merkur.
 - There are a number of Free-TV and Pay-TV channels in Germany
 - Channels like ARD, ZDF, and BR are publicly financed ("Rundfunkbeitrag")
 - There are two large TV groups in Germany: RTL Group, that operates RTL, RTL2, Super RTL, VOX, n-tv, as well as a couple other Pay-TV ones. And ProSiebenSat.1, that operates ProSieben, SAT.1, kabel eins, sixx, and ProSieben MAXX.
-- There are a number of local radio stations. On state level, the most popular stations are Bayern 1 and Antenne Bayern. Bayern 1 (adult contemporary, a bit retro), amongst with its sister-channels Bayern 2 (lots of moderated formats & more niche music), Bayern 3 (adult contemporary with focus on younger adults), Bayern 4 (classic music), and Bayern 5 (news), are publicly financed. Antenne Bayern (adult contemporary) is the most popular private channel in Bavaria, and also Germany. On city level, popular stations are Gong 96.3, Energy München, Charivari München, and Radio Arabella.
+- There are a number of local radio stations. On state level, the most popular stations are Bayern 1 and Antenne Bayern. Bayern 1 (adult contemporary, a bit retro), amongst with its sister-channels Bayern 2 (lots of moderated formats & more niche music), Bayern 3 (adult contemporary with focus on younger adults), Bayern 4 (classic music), and BR24 (news), are publicly financed. Antenne Bayern (adult contemporary) is the most popular private channel in Bavaria, and also Germany. On city level, popular stations are Gong 96.3, Energy München, Charivari München, and Radio Arabella.
 
 ### Movies
 
-- The two largest cinemas in Munich are mathäser and CinemaxX. 
+- The two largest cinemas in Munich are [mathäser](https://www.mathaeser.de/) and [CinemaxX](https://www.cinemaxx.de). 
 - "Cinema" at Stiglmaierplatz is specialized in showing movies in OV.
 
 ### Concerts
